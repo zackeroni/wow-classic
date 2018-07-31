@@ -1,0 +1,1 @@
+The purpose of this file is to document my reseach and progress in creating the ability to fly in classic World of Warcraft. I will start under the assumption that I can complete this task by effectively recreating the swimming method but for usage in air activated by a console command rather than a flag for being submerged in water.
